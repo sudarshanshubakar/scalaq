@@ -1,4 +1,4 @@
-# queuela
+# scalaq
 
 A simple queue implementation in scala. This is mainly aimed at learning scala.
 
